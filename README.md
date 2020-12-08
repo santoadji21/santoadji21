@@ -4,7 +4,7 @@
 * 🎨 Ui Designer.
 * 📷 Food Photography
 * 🍽 loves Cooking.
-* 🎮 Loves playing PUBG Moobile.
+* 🎮 Loves playing PUBG Mobile.
 * 🎤 Also loves singing and karaoke.
 * 😁 Nice to meet you!
 
