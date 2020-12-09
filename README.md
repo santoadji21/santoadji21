@@ -1,11 +1,12 @@
-# Hello, Im Ahmad Aji Santoso
+# Hello, Im Ahmad Aji Santoso &nbsp; ![Indonesia](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/id.svg)
 
-* 🖥 Front End Developer
+
+* 🖥 Front End Developer.
 * 🎨 Ui Designer.
 * 📷 Food Photography
 * 🍽 loves Cooking.
-* 🎮 Loves playing PUBG Mobile.
-* 🎤 Also loves singing and karaoke.
+* 🎮 Loves Playing PUBG Mobile.
+* 🎤 Also loves singing.
 * 😁 Nice to meet you!
 
 
