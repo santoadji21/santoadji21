@@ -4,7 +4,7 @@
 
 * 🖥 Front End Developer.
 * 🎨 Ui Designer.
-* 📷 Food Photography
+* 📷 Food Photography.
 * 🍽 loves Cooking.
 * 🎮 Loves Playing PUBG Mobile.
 * 🎤 Also loves singing.
