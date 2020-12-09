@@ -1,4 +1,6 @@
-# Hello, Im Ahmad Aji Santoso &nbsp; ![Indonesia](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/id.png)
+# Hello, Im Ahmad Aji Santoso  <img style="float: right;" src="/icon/id.png">
+
+&nbsp; ![Indonesia](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/id.png)
 
 
 * 🖥 Front End Developer.
