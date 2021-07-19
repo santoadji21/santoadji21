@@ -19,3 +19,12 @@
 [![Facebook](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/linkedin.png)](https://id.linkedin.com/in/ahmad-aji-santoso-97b9b9159) &nbsp;
 [![Github](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/github.png)](https://github.com/santoadji21) &nbsp;
 [![Gitlab](https://raw.githubusercontent.com/santoadji21/santoadji21/master/icon/gitlab.png)](https://gitlab.com/santoadji21) &nbsp;
+
+## 🚀 GitHub Stats
+
+<a href="https://github.com/santoadji21">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=santoadji21&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/santoadji21">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoadji21&layout=compact&theme=merko&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
