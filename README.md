@@ -26,5 +26,5 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=santoadji21&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/santoadji21">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoadji21&layout=compact&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoadji21&layout=compact&theme=cobalt&hide_border=true&count_private=true&hide=php,pug&include_all_commits=true" />
   </a>
