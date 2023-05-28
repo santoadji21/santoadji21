@@ -1,6 +1,6 @@
 # Hello, Im Ahmad Aji Santoso  <img align="right" src="/icon/id.png">
 
-
+![](https://komarev.com/ghpvc/?username=santoadji21)
 
 * 🖥 Front End Developer.
 * 🎨 Ui Designer.
